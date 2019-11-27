@@ -1,0 +1,2 @@
+# StabRankNotebook
+Python implementation of the circuit simulation ideas in "Simulation of quantum circuits by low-rank stabilizer decompositions" by Sergey Bravyi, Dan Browne, Padraic Calpin, Earl Campbell, David Gosset, Mark Howard. EC and MH were supported by the EPSRC (Grant No. EP/M024261/1). PC was supported by the EPSRC (Grant No. EP/L015242/1). The collaboration benefited from support by the NQIT project partnership fund (Grant No. EP/M013243/1), an EPSRC IIKE award and the IBM Research Frontiers Institute.
